@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IFIL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Home Page</string>
+    <string name="title_activity_add_ifound_items">Found</string>
+    <string name="title_activity_add_ilost_items">Lost</string>
+
+</resources>
